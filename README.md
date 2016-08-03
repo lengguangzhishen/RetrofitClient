@@ -1,4 +1,5 @@
 # RetrofitClient
+<<<<<<< HEAD
 基于Retrofit和Rxjava封装的请求工具类 
 
 Base Retrofit& Rxjava Encapsulates the request of the tools
@@ -51,3 +52,6 @@ Base Retrofit& Rxjava Encapsulates the request of the tools
  >更多介绍：http://www.jianshu.com/p/29c2a9ac5abf
  
  >Author : Tamic
+=======
+the package of RetrofitClient
+>>>>>>> 39040bee20695bf84674bc95dc01cc68f9cc756f
